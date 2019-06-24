@@ -1,0 +1,13 @@
+create repo on github
+navigate to where we want our project
+
+git init
+git remote add origin <paste repo here>
+
+// repeatable
+make changes
+git add .
+git commit -m "<your message here>"
+
+// when ready
+git push origin master
